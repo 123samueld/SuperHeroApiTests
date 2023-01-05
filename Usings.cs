@@ -1,0 +1,14 @@
+global using Microsoft.AspNetCore.Mvc;
+global using System.Collections.Generic;
+global using SuperHeroApi.Controllers;
+global using SuperHeroApi.Interfaces;
+global using System.Threading.Tasks;
+global using SuperHeroApi.Models;
+global using SuperHeroApi.Dto;
+global using FluentAssertions;
+global using AutoMapper;
+global using System.Text;
+global using FakeItEasy;
+global using System.Linq;
+global using System;
+global using Xunit;
